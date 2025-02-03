@@ -6,9 +6,9 @@ let fontSize = 2
 let messages = [
   'Porque pones que no Bri, traicionera',
   'Mira el si, esta bonito como tú',
-  'ANALIZA TU COSTO DE OPORTUNIDAD',
+  'Analiza tu costo de oportunidad',
   'Te lo juro dale a siiiiiiiii',
-  'No te arrepentiras amorcito, promesa'
+  'No te arrepentiras mi niña'
 ]
 
 buttonNo.addEventListener('click', () => {
