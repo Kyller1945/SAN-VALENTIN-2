@@ -5,10 +5,10 @@ let fontSize = 2
 
 let messages = [
   'Porque pones que no Bri, traicionera',
-  'Mira el si, esta bonito',
-  'Piensalo muy bien',
-  'Piensalo MAAAAAAS',
-  'No te arrepentiras amorcito'
+  'Mira el si, esta bonito como tú',
+  'ANALIZA TU COSTO DE OPORTUNIDAD',
+  'piiensaloo maaaaaas',
+  'No te arrepentiras amorcito, promesa'
 ]
 
 buttonNo.addEventListener('click', () => {
