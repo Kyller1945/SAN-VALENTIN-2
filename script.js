@@ -8,7 +8,7 @@ let messages = [
   'Mira el si, esta bonito como tú',
   'Analiza tu costo de oportunidad',
   'Te lo juro dale a siiiiiiiii',
-  'No te arrepentiras mi niña'
+  'No te arrepentiras mi niña linda'
 ]
 
 buttonNo.addEventListener('click', () => {
