@@ -4,11 +4,11 @@ const buttonYes = document.querySelector('#yes')
 let fontSize = 2
 
 let messages = [
-  'Estas segura? Grecita',
-  'Piensalo bien',
+  'Porque pones que no Bri, traicionera',
+  'Mira el si, esta bonito',
   'Piensalo muy bien',
   'Piensalo MAAAAAAS',
-  'Mira el otro botón uwunt'
+  'No te arrepentiras amorcito'
 ]
 
 buttonNo.addEventListener('click', () => {
