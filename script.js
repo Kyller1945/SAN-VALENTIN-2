@@ -7,7 +7,7 @@ let messages = [
   'Porque pones que no Bri, traicionera',
   'Mira el si, esta bonito como tú',
   'ANALIZA TU COSTO DE OPORTUNIDAD',
-  'piiensaloo maaaaaas',
+  'te lo juro dale a siiiiiiiii',
   'No te arrepentiras amorcito, promesa'
 ]
 
